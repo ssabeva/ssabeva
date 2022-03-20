@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! 👋
+My name is **Dmitry**, **ssabeva** or [**0x86pacman#0500**](https://discord.com/users/485446957901545482)
+
+![https://discord.com/users/485446957901545482](https://discord.c99.nl/widget/theme-1/485446957901545482.png)
+
+![](https://github-readme-stats.vercel.app/api?username=ssabeva&show_icons=true&include_all_commits=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssabeva&layout=compact&theme=dark)
+
+All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
 
 <!--
 **ssabeva/ssabeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
